@@ -2,10 +2,10 @@ html {
 	/* No highlighting on text */
 	-webkit-touch-callout: none; /* iOS Safari */
    	-webkit-user-select: none; /* Safari */
-    -khtml-user-select: none; /* Konqueror HTML */
-   	-moz-user-select: none; /* Firefox */
-    -ms-user-select: none; /* Internet Explorer/Edge */
-    user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+    	-khtml-user-select: none; /* Konqueror HTML */
+ 	-moz-user-select: none; /* Firefox */
+    	-ms-user-select: none; /* Internet Explorer/Edge */
+    	user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
 }
 
 body {
@@ -19,9 +19,9 @@ body {
 
 h1 {
 	font-size: 40px;
-    margin: 15px 0;
-    padding: 10px 0;
-    letter-spacing: 2px;
+    	margin: 15px 0;
+    	padding: 10px 0;
+    	letter-spacing: 2px;
 }
 
 #calculator {
@@ -50,9 +50,9 @@ h1 {
 	margin: ;
 	padding: 12px;
 	width: 100%;
-    text-align: right;
-    font-size: 38px;
-    overflow: hidden;
+    	text-align: right;
+    	font-size: 38px;
+    	overflow: hidden;
 }
 
 .row {
